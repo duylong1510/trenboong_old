@@ -1,0 +1,36 @@
+List<String> groceries = [
+  'Humberger',
+  'Bánh Mì',
+  'Bananas',
+  'thịt xông khói',
+  'Oranges',
+  'Trái cây tô',
+  'Bananas',
+  'xôi khúc',
+  'Oranges',
+  'Bananas',
+  'Bananas',
+  'Bananas',
+  'Oranges',
+  'Bananas',
+  'Bananas',
+  'Bananas'
+];
+List<double> prices = [
+  1.03,
+  2.08,
+  1.73,
+  1.03,
+  1.03,
+  2.08,
+  1.73,
+  1.03,
+  1.03,
+  2.08,
+  1.73,
+  1.03,
+  2.08,
+  1.73,
+  2.08,
+  1.73
+];
